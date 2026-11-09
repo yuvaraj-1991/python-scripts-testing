@@ -1,0 +1,6 @@
+{
+    "application": "payment-service",
+    "environment": "production",
+    "replicas": 3,
+    "port": 8080
+}

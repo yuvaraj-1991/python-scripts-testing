@@ -1,0 +1,13 @@
+2026-11-02 14:20:38,263 - application - INFO - Starting Application
+2026-11-02 14:20:38,263 - application - INFO - Log directory exists!
+2026-11-02 14:20:38,263 - application - INFO - Checking application health
+2026-11-02 14:20:38,263 - application - INFO - Application execution completed
+2026-11-02 14:34:21,437 - application - INFO - Starting Application
+2026-11-02 14:34:21,437 - application - INFO - Log directory exists!
+2026-11-02 14:34:21,437 - application - INFO - Checking application health
+2026-11-02 14:34:21,437 - application - INFO - Application execution completed
+2026-11-02 14:34:21,437 - application - DEBUG - Debugging application
+2026-11-02 14:34:21,437 - application - INFO - Application running normally
+2026-11-02 14:34:21,437 - application - WARNING - Application response is slow
+2026-11-02 14:34:21,437 - application - ERROR - Application encountered an error
+2026-11-02 14:34:21,437 - application - CRITICAL - Critical application failure
